@@ -49,6 +49,19 @@
 		68E8143C2DC210440032BE4C /* DSASeriesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DSASeriesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68E814402DC210440032BE4C /* DSASeriesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSASeriesUITests.swift; sourceTree = "<group>"; };
 		68E814422DC210440032BE4C /* DSASeriesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSASeriesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		68E8144F2DC210C70032BE4C /* Array10MarchDSA.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Array10MarchDSA.playground; sourceTree = "<group>"; };
+		68E814502DC210D10032BE4C /* ArrayDSA.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayDSA.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68E814512DC210DB0032BE4C /* AysncAwait.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AysncAwait.playground; sourceTree = "<group>"; };
+		68E814522DC210E80032BE4C /* combine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = combine.playground; sourceTree = "<group>"; };
+		68E814532DC210F70032BE4C /* DependencyType.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DependencyType.playground; sourceTree = "<group>"; };
+		68E814542DC211030032BE4C /* DispatchGroup.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DispatchGroup.playground; sourceTree = "<group>"; };
+		68E814552DC211340032BE4C /* goodnotes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = goodnotes.playground; sourceTree = "<group>"; };
+		68E814562DC211470032BE4C /* Hashing.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Hashing.playground; sourceTree = "<group>"; };
+		68E814572DC211620032BE4C /* LinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LinkedList.playground; sourceTree = "<group>"; };
+		68E814582DC2119B0032BE4C /* rs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = rs.playground; sourceTree = "<group>"; };
+		68E814592DC211A80032BE4C /* SlidingWindowDSA.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SlidingWindowDSA.playground; sourceTree = "<group>"; };
+		68E8145A2DC211AF0032BE4C /* SortingAlgo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SortingAlgo.playground; sourceTree = "<group>"; };
+		68E8145B2DC211B60032BE4C /* subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = subarray.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +112,19 @@
 		68E8141E2DC210430032BE4C /* DSASeries */ = {
 			isa = PBXGroup;
 			children = (
+				68E8145B2DC211B60032BE4C /* subarray.playground */,
+				68E8145A2DC211AF0032BE4C /* SortingAlgo.playground */,
+				68E814592DC211A80032BE4C /* SlidingWindowDSA.playground */,
+				68E814582DC2119B0032BE4C /* rs.playground */,
+				68E814572DC211620032BE4C /* LinkedList.playground */,
+				68E814562DC211470032BE4C /* Hashing.playground */,
+				68E814552DC211340032BE4C /* goodnotes.playground */,
+				68E814542DC211030032BE4C /* DispatchGroup.playground */,
+				68E814532DC210F70032BE4C /* DependencyType.playground */,
+				68E814522DC210E80032BE4C /* combine.playground */,
+				68E814512DC210DB0032BE4C /* AysncAwait.playground */,
+				68E814502DC210D10032BE4C /* ArrayDSA.playground */,
+				68E8144F2DC210C70032BE4C /* Array10MarchDSA.playground */,
 				68E8141F2DC210430032BE4C /* AppDelegate.swift */,
 				68E814212DC210430032BE4C /* SceneDelegate.swift */,
 				68E814232DC210430032BE4C /* ViewController.swift */,
